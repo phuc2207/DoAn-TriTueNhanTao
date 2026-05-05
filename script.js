@@ -8,7 +8,7 @@
 // ─────────────────────────────────────────────────────
 // CONFIG
 // ─────────────────────────────────────────────────────
-const API_BASE = 'http://localhost:8001';
+const API_BASE = 'https://api-du-bao-gia-nha.onrender.com';
 
 const ORS_KEY = 'eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6IjQ1OWJmM2MxNGU2ZDRmOTJhYWFhYTNkZWNmYmMzZmJjIiwiaCI6Im11cm11cjY0In0=';
 const ORS_URL = 'https://api.openrouteservice.org/v2/directions/driving-car';
