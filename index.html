@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BĐS TP.HCM – Dự báo Giá Nhà</title>
+
+  <!-- Fonts: Outfit (body) + Cormorant Garamond (display) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ───────────── HEADER ───────────── -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="brand-icon"><i class="fa-solid fa-city"></i></span>
+        <div>
+          <div class="brand-title">Hệ thống Dự báo Giá Nhà</div>
+          <div class="brand-sub">TP. Hồ Chí Minh &nbsp;·&nbsp; AI-Powered Real Estate</div>
+        </div>
+      </div>
+      <div class="header-badge">
+        <span id="status-dot" class="dot dot-ok"></span>
+        <span id="status-text">Server Online</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ───────────── MAIN TABS ───────────── -->
+  <div class="container-fluid px-4 py-4">
+
+    <!-- Tab Nav -->
+    <ul class="nav app-tabs mb-4" id="mainTabs">
+      <li class="nav-item">
+        <a class="nav-link active" data-bs-toggle="tab" href="#tab-predict">
+          <i class="fa-solid fa-wand-magic-sparkles"></i> Dự báo Giá
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="tab" href="#tab-recommend">
+          <i class="fa-solid fa-list-check"></i> Gợi ý BĐS
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="tab" href="#tab-market">
+          <i class="fa-solid fa-chart-line"></i> Thị trường
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="tab" href="#tab-route">
+          <i class="fa-solid fa-route"></i> Tìm đường
+        </a>
+      </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content">
+
+      <!-- ══════════════════════════════════════════
+           TAB 1 – DỰ BÁO GIÁ
+      ══════════════════════════════════════════ -->
+      <div class="tab-pane fade show active" id="tab-predict">
+        <div class="row g-4">
+
+          <!-- LEFT: Form -->
+          <div class="col-lg-4">
+            <div class="glass-card h-100">
+              <div class="card-title-section">
+                <i class="fa-solid fa-house-circle-check accent-icon"></i>
+                <h5>Thông tin Bất động sản</h5>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Diện tích (m²)</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-ruler-combined"></i></span>
+                  <input type="number" id="p-area" class="form-control" placeholder="Vd: 80" min="1" max="10000" value="80" />
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Số phòng ngủ</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-bed"></i></span>
+                  <input type="number" id="p-rooms" class="form-control" placeholder="Vd: 3" min="1" max="20" value="3" />
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Quận / Huyện</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-location-dot"></i></span>
+                  <select id="p-district" class="form-select"></select>
+                </div>
+              </div>
+
+              <div class="row g-2 mb-3">
+                <div class="col-6">
+                  <label class="form-label">Số tầng</label>
+                  <div class="input-group">
+                    <span class="input-group-text"><i class="fa-solid fa-layer-group"></i></span>
+                    <input type="number" id="p-tang" class="form-control" value="2" min="1" max="30" />
+                  </div>
+                </div>
+                <div class="col-6">
+                  <label class="form-label">Mặt tiền (m)</label>
+                  <div class="input-group">
+                    <span class="input-group-text"><i class="fa-solid fa-arrows-left-right"></i></span>
+                    <input type="number" id="p-mattien" class="form-control" value="4" min="2" max="30" step="0.5" />
+                  </div>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Hướng nhà</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-compass"></i></span>
+                  <select id="p-huong" class="form-select">
+                    <option value="Nam">Nam</option>
+                    <option value="Đông Nam">Đông Nam</option>
+                    <option value="Đông">Đông</option>
+                    <option value="Đông Bắc">Đông Bắc</option>
+                    <option value="Bắc">Bắc</option>
+                    <option value="Tây Bắc">Tây Bắc</option>
+                    <option value="Tây">Tây</option>
+                    <option value="Tây Nam">Tây Nam</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="mb-4">
+                <label class="form-label">Mô tả nhà <span class="text-muted small">(AI + TF-IDF phân tích)</span></label>
+                <textarea id="p-desc" class="form-control" rows="3"
+                  placeholder="Vd: Nhà mặt tiền, sổ hồng, nội thất cao cấp, hẻm xe hơi..."></textarea>
+                <div class="keyword-chips mt-2" id="keyword-chips"></div>
+              </div>
+
+              <button class="btn btn-primary-custom w-100" id="btn-predict" onclick="predictPrice()">
+                <span class="btn-label"><i class="fa-solid fa-bolt"></i> Dự báo Ngay</span>
+                <span class="btn-spinner d-none"><i class="fa-solid fa-circle-notch fa-spin"></i> Đang tính...</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- RIGHT: Result -->
+          <div class="col-lg-8">
+            <!-- Empty state -->
+            <div id="predict-empty" class="glass-card empty-state">
+              <div class="empty-icon-wrap mb-3">
+                <i class="fa-solid fa-house-chimney fa-2x"></i>
+              </div>
+              <p class="text-muted">Nhập thông tin bên trái và nhấn <strong>Dự báo Ngay</strong> để xem kết quả.</p>
+            </div>
+
+            <!-- Result cards (hidden until response) -->
+            <div id="predict-result" class="d-none">
+
+              <!-- Price hero -->
+              <div class="price-hero mb-4">
+                <div class="price-label">Giá dự báo</div>
+                <div class="price-value" id="res-price">–</div>
+                <div class="price-method" id="res-method"></div>
+              </div>
+
+              <div class="row g-3">
+                <!-- Distance -->
+                <div class="col-sm-4">
+                  <div class="stat-card">
+                    <i class="fa-solid fa-road stat-icon"></i>
+                    <div class="stat-val" id="res-dist">–</div>
+                    <div class="stat-lbl">km đến Quận 1</div>
+                  </div>
+                </div>
+
+                <!-- Liquidity score -->
+                <div class="col-sm-4">
+                  <div class="stat-card">
+                    <i class="fa-solid fa-fire stat-icon"></i>
+                    <div class="stat-val" id="res-liq-score">–</div>
+                    <div class="stat-lbl">Điểm thanh khoản</div>
+                  </div>
+                </div>
+
+                <!-- District -->
+                <div class="col-sm-4">
+                  <div class="stat-card">
+                    <i class="fa-solid fa-map-pin stat-icon"></i>
+                    <div class="stat-val small-val" id="res-quan">–</div>
+                    <div class="stat-lbl">Vị trí</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Liquidity label -->
+              <div class="glass-card mt-3">
+                <div class="d-flex align-items-center gap-3 flex-wrap">
+                  <div>
+                    <span class="small text-muted">Đánh giá thanh khoản</span>
+                    <div id="res-liq-label" class="liq-badge mt-1">–</div>
+                  </div>
+                  <div class="ms-auto">
+                    <div class="liq-bar-wrap">
+                      <div class="liq-bar" id="res-liq-bar"></div>
+                    </div>
+                    <div class="small text-muted text-end mt-1"><span id="res-liq-score2">–</span>/10</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Route to Q1 -->
+              <div class="glass-card mt-3">
+                <div class="card-title-section">
+                  <i class="fa-solid fa-route accent-icon"></i>
+                  <h6 class="mb-0">Đường đi ước tính tới Quận 1</h6>
+                </div>
+                <div id="res-route" class="route-display">–</div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════════════
+           TAB 2 – GỢI Ý BĐS
+      ══════════════════════════════════════════ -->
+      <div class="tab-pane fade" id="tab-recommend">
+        <div class="row g-4">
+          <div class="col-lg-4">
+            <div class="glass-card">
+              <div class="card-title-section">
+                <i class="fa-solid fa-sliders accent-icon"></i>
+                <h5>Tiêu chí tìm kiếm</h5>
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Diện tích (m²)</label>
+                <input type="number" id="r-area" class="form-control" value="80" />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Số phòng</label>
+                <input type="number" id="r-rooms" class="form-control" value="3" />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Quận</label>
+                <select id="r-district" class="form-select"></select>
+              </div>
+              <div class="mb-4">
+                <label class="form-label">Ngân sách (tỷ VNĐ)</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-dong-sign"></i></span>
+                  <input type="number" id="r-price" class="form-control" placeholder="Vd: 5.5" step="0.1" value="5" />
+                </div>
+              </div>
+              <button class="btn btn-primary-custom w-100" onclick="recommendProps()">
+                <span class="btn-label"><i class="fa-solid fa-magnifying-glass-dollar"></i> Tìm BĐS tương tự</span>
+                <span class="btn-spinner d-none"><i class="fa-solid fa-circle-notch fa-spin"></i> Đang tìm...</span>
+              </button>
+            </div>
+          </div>
+          <div class="col-lg-8">
+            <div id="rec-empty" class="glass-card empty-state">
+              <div class="empty-icon-wrap mb-3"><i class="fa-solid fa-building fa-2x"></i></div>
+              <p class="text-muted">Nhập tiêu chí và nhấn <strong>Tìm BĐS tương tự</strong>.</p>
+            </div>
+            <div id="rec-results" class="row g-3 d-none"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════════════
+           TAB 3 – THỊ TRƯỜNG
+      ══════════════════════════════════════════ -->
+      <div class="tab-pane fade" id="tab-market">
+        <div class="row g-4 mb-4">
+          <div class="col-12">
+            <div class="glass-card">
+              <div class="row g-3 align-items-end">
+                <div class="col-sm-4">
+                  <label class="form-label">Lọc Quận</label>
+                  <select id="m-district" class="form-select">
+                    <option value="">– Tất cả quận –</option>
+                  </select>
+                </div>
+                <div class="col-sm-3">
+                  <label class="form-label">Giá tối thiểu (tỷ)</label>
+                  <input type="number" id="m-min" class="form-control" placeholder="0" step="0.5" />
+                </div>
+                <div class="col-sm-3">
+                  <label class="form-label">Giá tối đa (tỷ)</label>
+                  <input type="number" id="m-max" class="form-control" placeholder="Không giới hạn" step="0.5" />
+                </div>
+                <div class="col-sm-2">
+                  <button class="btn btn-primary-custom w-100" onclick="analyzeMarket()">
+                    <i class="fa-solid fa-chart-bar"></i> Phân tích
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="market-empty" class="glass-card empty-state">
+          <div class="empty-icon-wrap mb-3"><i class="fa-solid fa-chart-pie fa-2x"></i></div>
+          <p class="text-muted">Nhấn <strong>Phân tích</strong> để xem số liệu thị trường.</p>
+        </div>
+
+        <div id="market-result" class="d-none">
+          <div class="row g-3 mb-4">
+            <div class="col-6 col-md-3">
+              <div class="stat-card">
+                <i class="fa-solid fa-house-circle-check stat-icon"></i>
+                <div class="stat-val" id="m-total">–</div>
+                <div class="stat-lbl">Tổng tin đăng</div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3">
+              <div class="stat-card">
+                <i class="fa-solid fa-scale-balanced stat-icon"></i>
+                <div class="stat-val" id="m-avg">–</div>
+                <div class="stat-lbl">Giá trung bình (tỷ)</div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3">
+              <div class="stat-card">
+                <i class="fa-solid fa-arrow-down stat-icon" style="color:#4ade80"></i>
+                <div class="stat-val" id="m-min-v">–</div>
+                <div class="stat-lbl">Giá thấp nhất (tỷ)</div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3">
+              <div class="stat-card">
+                <i class="fa-solid fa-arrow-up stat-icon" style="color:#f87171"></i>
+                <div class="stat-val" id="m-max-v">–</div>
+                <div class="stat-lbl">Giá cao nhất (tỷ)</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row g-4">
+            <div class="col-lg-7">
+              <div class="glass-card">
+                <div class="card-title-section">
+                  <i class="fa-solid fa-chart-bar accent-icon"></i>
+                  <h6 class="mb-0">Giá trung bình theo Quận</h6>
+                </div>
+                <canvas id="chart-district" height="280"></canvas>
+              </div>
+            </div>
+            <div class="col-lg-5">
+              <div class="glass-card">
+                <div class="card-title-section">
+                  <i class="fa-solid fa-chart-pie accent-icon"></i>
+                  <h6 class="mb-0">Phân bố số tin theo Quận</h6>
+                </div>
+                <canvas id="chart-pie" height="280"></canvas>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="glass-card">
+                <div class="card-title-section">
+                  <i class="fa-solid fa-table accent-icon"></i>
+                  <h6 class="mb-0">Chi tiết theo Quận</h6>
+                </div>
+                <div class="table-responsive mt-2">
+                  <table class="table data-table">
+                    <thead>
+                      <tr>
+                        <th>Quận</th>
+                        <th>Số tin</th>
+                        <th>Giá TB (tỷ)</th>
+                        <th>Giá thấp</th>
+                        <th>Giá cao</th>
+                      </tr>
+                    </thead>
+                    <tbody id="market-table"></tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════════════
+           TAB 4 – TÌM ĐƯỜNG (ORS Real Routing)
+      ══════════════════════════════════════════ -->
+      <div class="tab-pane fade" id="tab-route">
+        <div class="row g-4">
+          <div class="col-lg-4">
+            <div class="glass-card">
+              <div class="card-title-section">
+                <i class="fa-solid fa-map-marked-alt accent-icon"></i>
+                <h5>Tìm đường thực tế</h5>
+              </div>
+
+              <!-- Route mode badge -->
+              <div class="route-mode-badge mb-3">
+                <i class="fa-solid fa-satellite-dish me-2"></i>
+                Dùng OpenRouteService API – đường đi theo thực tế
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Điểm xuất phát</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-circle-dot"></i></span>
+                  <select id="rt-start" class="form-select"></select>
+                </div>
+              </div>
+
+              <div class="mb-4">
+                <label class="form-label">Điểm đến</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fa-solid fa-location-pin"></i></span>
+                  <select id="rt-end" class="form-select"></select>
+                </div>
+              </div>
+
+              <button class="btn btn-primary-custom w-100" onclick="findRoute()">
+                <span class="btn-label"><i class="fa-solid fa-diamond-turn-right"></i> Tìm đường ngắn nhất</span>
+                <span class="btn-spinner d-none"><i class="fa-solid fa-circle-notch fa-spin"></i> Đang định tuyến...</span>
+              </button>
+
+              <!-- Route result info -->
+              <div id="route-info" class="d-none mt-4">
+                <hr class="divider" />
+                <div class="row g-2 text-center mb-3">
+                  <div class="col-4">
+                    <div class="stat-card p-2">
+                      <div class="stat-val" id="rt-dist">–</div>
+                      <div class="stat-lbl">km</div>
+                    </div>
+                  </div>
+                  <div class="col-4">
+                    <div class="stat-card p-2">
+                      <div class="stat-val" id="rt-time">–</div>
+                      <div class="stat-lbl">phút</div>
+                    </div>
+                  </div>
+                  <div class="col-4">
+                    <div class="stat-card p-2">
+                      <div class="stat-val" id="rt-turns">–</div>
+                      <div class="stat-lbl">bước</div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="glass-card p-3">
+                  <div class="small text-muted mb-2"><i class="fa-solid fa-road me-1"></i> Các điểm trên lộ trình</div>
+                  <div id="rt-path" class="route-display"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Map -->
+          <div class="col-lg-8">
+            <div class="map-container glass-card p-0 overflow-hidden" style="min-height:520px">
+              <div id="map"></div>
+              <div id="map-placeholder" class="empty-state" style="min-height:520px">
+                <div class="empty-icon-wrap mb-3"><i class="fa-solid fa-map fa-2x"></i></div>
+                <p class="text-muted">Chọn điểm và nhấn <strong>Tìm đường</strong> để hiển thị bản đồ thực tế.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /tab-content -->
+  </div><!-- /container -->
+
+  <!-- Toast Notification -->
+  <div class="toast-container position-fixed bottom-0 end-0 p-3">
+    <div id="toast-msg" class="toast align-items-center border-0" role="alert">
+      <div class="d-flex">
+        <div class="toast-body" id="toast-body">Thông báo</div>
+        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

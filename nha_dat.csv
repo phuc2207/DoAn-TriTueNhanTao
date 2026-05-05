@@ -1,0 +1,1001 @@
+﻿id,Dien_tich,So_phong,Vi_tri,Noi_dung_mo_ta,Gia_ty_vnd
+1,32.4,5,Quan_4,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",6.07
+2,190.6,7,Quan_1,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ hồng chính chủ.",84.97
+3,55.2,7,Quan_12,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",8.11
+4,269.7,6,Quan_11,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",43.22
+5,86.8,5,Quan_Binh_Thanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",12.92
+6,89.8,6,Huyen_Binh_Chanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",4.87
+7,141.7,8,Quan_Binh_Tan,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",17.03
+8,175.3,2,Quan_5,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",34.35
+9,225.7,2,Quan_1,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",72.44
+10,174.8,2,Quan_6,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",24.23
+11,30.7,6,Quan_Binh_Tan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",3.74
+12,219.6,3,Quan_5,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",43.33
+13,158.2,4,Quan_Thu_Duc,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",16.12
+14,95.2,8,Quan_Thu_Duc,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",9.37
+15,146.3,1,Quan_Phu_Nhuan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",22.84
+16,161.5,2,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",30.95
+17,280.1,1,Quan_7,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",81.23
+18,70.7,5,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ, nội thất cao cấp.",7.6
+19,276.1,2,Quan_3,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",71.6
+20,300.7,4,Quan_12,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",34.33
+21,46.6,4,Quan_4,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",10.22
+22,27.3,5,Quan_Thu_Duc,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ.",3.69
+23,227.8,5,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",34.95
+24,187.7,7,Quan_Go_Vap,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, nội thất cao cấp.",29.09
+25,290.2,4,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",63.12
+26,285.0,1,Quan_6,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",49.78
+27,137.8,1,Quan_4,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh.",21.53
+28,280.0,5,Quan_10,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, sổ đỏ.",41.86
+29,127.0,6,Quan_Phu_Nhuan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",23.12
+30,132.4,2,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",21.4
+31,81.6,7,Quan_5,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",15.75
+32,162.2,8,Quan_12,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",14.29
+33,223.5,4,Quan_8,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",26.51
+34,170.8,4,Quan_Tan_Binh,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",37.27
+35,39.8,4,Quan_Go_Vap,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",5.69
+36,150.9,8,Quan_Thu_Duc,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",13.83
+37,119.3,2,Quan_12,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",14.39
+38,139.9,1,Quan_Phu_Nhuan,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",27.75
+39,289.9,8,Huyen_Hoc_Mon,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",22.0
+40,33.0,7,Huyen_Binh_Chanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",2.12
+41,107.1,7,Quan_Tan_Binh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",16.85
+42,305.1,4,Quan_1,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",103.4
+43,254.4,3,Quan_4,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",44.93
+44,55.1,5,Quan_8,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",5.6
+45,275.6,8,Quan_1,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",117.44
+46,263.4,8,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",11.72
+47,170.8,6,Quan_1,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",80.24
+48,50.3,7,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",8.55
+49,133.9,6,Huyen_Nha_Be,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",6.92
+50,81.5,8,Quan_6,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",7.65
+51,62.3,1,Huyen_Binh_Chanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",2.5
+52,309.8,5,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",31.51
+53,250.5,4,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",10.74
+54,209.5,5,Quan_7,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",61.09
+55,46.0,4,Quan_Go_Vap,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",4.02
+56,46.1,3,Quan_5,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",8.79
+57,154.1,1,Quan_Binh_Tan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",13.01
+58,195.0,3,Quan_10,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",31.17
+59,222.7,3,Quan_12,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",15.22
+60,280.1,1,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",42.36
+61,284.8,8,Quan_Go_Vap,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, nội thất cao cấp.",41.47
+62,161.1,2,Quan_4,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",27.54
+63,81.2,3,Quan_Tan_Binh,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",12.56
+64,280.3,8,Quan_Binh_Tan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",23.04
+65,37.9,8,Quan_Phu_Nhuan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",7.86
+66,282.9,8,Quan_4,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, sổ đỏ, nội thất cao cấp.",68.01
+67,216.7,6,Quan_Tan_Binh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",28.03
+68,245.3,7,Quan_8,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",21.77
+69,146.6,3,Quan_Thu_Duc,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",20.73
+70,100.3,1,Quan_Go_Vap,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",10.69
+71,83.8,7,Quan_11,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",13.38
+72,280.2,1,Huyen_Nha_Be,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",10.82
+73,210.3,1,Quan_5,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",41.3
+74,181.6,5,Quan_Binh_Thanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",27.65
+75,278.7,7,Quan_8,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ.",29.96
+76,57.0,4,Quan_Binh_Thanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",8.62
+77,59.4,1,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ hồng chính chủ.",13.66
+78,244.0,3,Huyen_Nha_Be,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",11.27
+79,54.3,6,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",8.39
+80,311.5,1,Huyen_Hoc_Mon,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",13.49
+81,25.8,3,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ, nội thất cao cấp.",1.36
+82,62.4,7,Quan_2,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",15.21
+83,114.0,1,Quan_Thu_Duc,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",14.5
+84,44.4,5,Quan_5,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",8.38
+85,237.6,4,Huyen_Binh_Chanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",9.38
+86,227.6,8,Quan_5,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, sổ đỏ, nội thất cao cấp.",63.28
+87,146.2,7,Quan_4,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",20.32
+88,274.4,6,Quan_Binh_Thanh,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nở hậu, nội thất cao cấp.",66.52
+89,33.5,5,Quan_10,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",7.95
+90,88.5,7,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",9.19
+91,105.3,7,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",27.51
+92,141.6,1,Quan_8,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",21.38
+93,232.6,6,Huyen_Binh_Chanh,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, nở hậu, sổ đỏ.",16.7
+94,144.5,6,Quan_4,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",32.44
+95,48.2,5,Quan_Thu_Duc,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ.",5.64
+96,94.7,3,Quan_5,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ, nội thất cao cấp.",25.64
+97,214.7,6,Huyen_Nha_Be,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",12.35
+98,41.8,5,Quan_2,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",16.38
+99,157.7,4,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, nội thất cao cấp.",46.25
+100,179.2,3,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",14.11
+101,108.8,3,Quan_Tan_Binh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",13.67
+102,136.1,6,Huyen_Binh_Chanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",5.89
+103,78.2,4,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",12.24
+104,220.3,3,Quan_2,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",61.23
+105,205.1,8,Quan_Go_Vap,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",30.68
+106,254.5,7,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",33.02
+107,105.5,3,Quan_6,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",11.74
+108,135.6,1,Quan_3,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ đỏ, nội thất cao cấp.",43.37
+109,30.6,4,Quan_3,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",8.15
+110,57.7,8,Quan_3,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",21.55
+111,45.0,1,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, nội thất cao cấp.",7.47
+112,64.4,6,Quan_12,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",5.89
+113,35.9,4,Quan_Go_Vap,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",6.6
+114,279.3,1,Quan_Binh_Thanh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",45.96
+115,133.4,5,Quan_Binh_Tan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",9.16
+116,202.8,7,Quan_Go_Vap,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",33.05
+117,47.1,7,Quan_2,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu.",10.9
+118,305.1,1,Quan_Tan_Binh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",34.78
+119,32.6,3,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",5.32
+120,276.6,8,Quan_5,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, nội thất cao cấp.",74.18
+121,276.2,3,Quan_11,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",37.22
+122,44.4,7,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",10.83
+123,126.6,3,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",12.63
+124,304.5,5,Quan_Binh_Thanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",41.51
+125,237.6,6,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",8.95
+126,110.5,5,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ, nội thất cao cấp.",5.7
+127,241.6,6,Quan_12,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",28.71
+128,279.9,7,Quan_Tan_Binh,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ đỏ.",58.35
+129,172.1,5,Quan_Go_Vap,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",26.58
+130,109.3,1,Quan_Binh_Tan,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư.",6.63
+131,46.7,8,Quan_11,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu.",8.64
+132,83.7,7,Quan_5,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",20.25
+133,72.9,5,Quan_12,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",7.67
+134,115.8,1,Huyen_Nha_Be,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",6.3
+135,253.5,7,Huyen_Hoc_Mon,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ đỏ.",13.52
+136,146.1,8,Quan_7,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",30.35
+137,126.0,6,Huyen_Binh_Chanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",7.05
+138,232.9,8,Quan_11,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ.",32.35
+139,110.7,5,Quan_5,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",22.66
+140,206.6,4,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",33.2
+141,145.0,8,Quan_6,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",18.76
+142,294.4,3,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ.",69.46
+143,27.7,2,Quan_2,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",7.4
+144,240.7,5,Quan_6,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",44.19
+145,121.7,7,Quan_Thu_Duc,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",12.39
+146,238.3,1,Huyen_Nha_Be,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",13.61
+147,228.6,5,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",27.6
+148,249.7,2,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",50.55
+149,59.3,4,Quan_Go_Vap,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ, nội thất cao cấp.",6.95
+150,100.1,1,Quan_Tan_Binh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",14.67
+151,250.9,7,Quan_5,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",47.99
+152,181.0,4,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư.",22.93
+153,80.6,2,Quan_10,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",19.31
+154,97.2,1,Quan_2,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",30.35
+155,94.9,3,Quan_12,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",9.36
+156,302.8,7,Quan_Binh_Thanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",38.68
+157,294.8,7,Quan_Go_Vap,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",35.03
+158,202.9,2,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",6.6
+159,308.8,2,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",48.53
+160,216.4,5,Huyen_Binh_Chanh,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ hồng chính chủ.",14.27
+161,147.1,4,Quan_12,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",15.21
+162,187.4,6,Quan_Binh_Tan,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",19.21
+163,169.1,1,Huyen_Binh_Chanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",6.9
+164,159.5,1,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",13.01
+165,313.4,1,Huyen_Binh_Chanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",13.17
+166,48.3,7,Quan_Tan_Binh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ, nội thất cao cấp.",9.19
+167,212.8,3,Quan_2,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",84.29
+168,165.3,1,Huyen_Nha_Be,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",8.1
+169,299.0,5,Quan_Tan_Binh,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",64.93
+170,172.7,6,Quan_3,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",67.87
+171,256.1,8,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",39.64
+172,70.5,3,Quan_10,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",15.2
+173,145.4,1,Quan_Thu_Duc,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",20.14
+174,292.0,4,Huyen_Binh_Chanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",15.75
+175,99.3,4,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",16.49
+176,152.0,3,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",12.69
+177,121.1,5,Quan_8,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",11.13
+178,154.3,5,Quan_7,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",43.52
+179,46.8,8,Quan_Tan_Binh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",8.84
+180,251.8,6,Quan_4,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",56.67
+181,54.1,4,Quan_1,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",15.89
+182,167.4,5,Quan_1,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ.",54.93
+183,119.1,5,Quan_Go_Vap,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ đỏ, nội thất cao cấp.",17.44
+184,187.8,6,Quan_6,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",26.17
+185,232.9,4,Quan_1,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",61.15
+186,180.7,6,Quan_Binh_Tan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",13.04
+187,117.4,4,Quan_5,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nội thất cao cấp.",29.19
+188,188.7,8,Quan_6,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",29.05
+189,174.1,8,Huyen_Binh_Chanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",8.05
+190,187.2,2,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",16.3
+191,112.8,1,Quan_8,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ.",11.98
+192,211.7,3,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",7.63
+193,194.0,2,Quan_11,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, sổ đỏ, nội thất cao cấp.",42.91
+194,249.6,7,Quan_8,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",30.77
+195,305.3,6,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",25.68
+196,268.3,8,Quan_Phu_Nhuan,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ đỏ.",75.87
+197,54.4,8,Quan_2,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",19.9
+198,283.0,5,Quan_6,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, nội thất cao cấp.",46.63
+199,232.6,1,Quan_3,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",72.22
+200,165.9,4,Quan_5,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",30.79
+201,45.2,1,Quan_5,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",10.28
+202,198.9,7,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",30.45
+203,85.6,4,Quan_11,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",12.2
+204,316.1,6,Quan_1,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",125.4
+205,44.9,5,Huyen_Nha_Be,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",2.81
+206,206.7,5,Huyen_Binh_Chanh,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",14.49
+207,116.5,7,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",30.68
+208,233.8,1,Quan_1,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",112.77
+209,252.6,1,Quan_4,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",35.12
+210,71.4,2,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",11.19
+211,188.1,7,Quan_2,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",65.05
+212,90.8,1,Quan_6,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",10.41
+213,243.2,4,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",29.3
+214,184.8,1,Quan_8,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",23.76
+215,234.9,2,Quan_5,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",67.87
+216,213.0,7,Quan_5,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",59.38
+217,118.8,5,Quan_12,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",11.41
+218,158.3,8,Quan_7,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, nội thất cao cấp.",43.77
+219,310.7,7,Quan_8,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ.",31.02
+220,60.8,1,Quan_5,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",12.19
+221,31.4,2,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",6.73
+222,152.8,7,Huyen_Nha_Be,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",8.19
+223,172.2,8,Quan_11,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, nội thất cao cấp.",34.66
+224,255.7,6,Quan_Tan_Binh,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",42.66
+225,263.6,8,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",49.83
+226,129.7,3,Quan_Tan_Binh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",28.74
+227,191.1,4,Quan_5,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, nội thất cao cấp.",38.55
+228,262.9,6,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",52.07
+229,197.9,6,Quan_Tan_Binh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",47.59
+230,257.2,4,Huyen_Hoc_Mon,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",10.28
+231,34.6,6,Huyen_Nha_Be,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",2.39
+232,267.4,6,Quan_3,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",97.33
+233,186.1,2,Quan_Binh_Thanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",23.67
+234,46.9,3,Quan_4,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",8.01
+235,204.2,7,Quan_6,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, nội thất cao cấp.",35.39
+236,39.6,8,Quan_4,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",10.02
+237,313.2,8,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",37.19
+238,162.2,4,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",16.67
+239,266.4,7,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",43.57
+240,68.5,8,Huyen_Hoc_Mon,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",5.1
+241,271.1,5,Quan_5,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",50.81
+242,179.2,7,Huyen_Nha_Be,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",13.97
+243,280.9,6,Quan_11,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",37.53
+244,228.7,1,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",18.67
+245,64.6,8,Quan_8,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu.",10.22
+246,258.5,2,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",18.34
+247,159.7,6,Quan_2,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",37.61
+248,128.2,3,Huyen_Binh_Chanh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, sổ đỏ, nội thất cao cấp.",7.02
+249,176.4,1,Quan_Phu_Nhuan,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",38.15
+250,289.2,6,Quan_Phu_Nhuan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",60.54
+251,204.7,5,Huyen_Hoc_Mon,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",9.27
+252,290.4,7,Quan_8,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu.",30.97
+253,239.3,4,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",20.07
+254,163.9,5,Quan_4,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",23.93
+255,134.6,5,Quan_12,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",14.62
+256,181.3,7,Quan_Tan_Binh,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nở hậu, sổ đỏ, nội thất cao cấp.",45.12
+257,254.8,8,Quan_6,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",34.13
+258,206.3,7,Quan_5,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",39.86
+259,91.7,6,Quan_8,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",11.77
+260,126.1,8,Quan_5,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",26.17
+261,74.9,6,Quan_Thu_Duc,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",7.11
+262,39.2,2,Quan_1,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",12.77
+263,203.7,3,Huyen_Hoc_Mon,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",8.17
+264,130.6,7,Quan_7,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",28.3
+265,69.0,2,Quan_Binh_Tan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",5.94
+266,276.4,6,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",67.37
+267,134.9,6,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",31.43
+268,314.6,3,Quan_2,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nội thất cao cấp.",96.57
+269,167.5,8,Quan_5,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",54.85
+270,313.5,6,Quan_8,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",30.05
+271,41.1,3,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",1.95
+272,266.0,2,Quan_Tan_Binh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",36.43
+273,189.4,1,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",39.03
+274,265.9,8,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ, nội thất cao cấp.",62.64
+275,186.6,6,Quan_11,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",42.67
+276,159.8,4,Quan_7,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",33.71
+277,64.7,8,Quan_Thu_Duc,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",9.84
+278,76.2,3,Huyen_Nha_Be,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nội thất cao cấp.",5.84
+279,309.3,5,Quan_Tan_Binh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",71.83
+280,211.6,4,Huyen_Binh_Chanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",8.69
+281,190.9,7,Quan_Binh_Thanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ, nội thất cao cấp.",27.66
+282,226.6,3,Quan_11,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",30.31
+283,139.7,5,Huyen_Binh_Chanh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",6.91
+284,281.3,8,Huyen_Hoc_Mon,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",10.49
+285,80.2,3,Quan_3,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ hồng chính chủ.",25.21
+286,298.9,1,Quan_5,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",49.88
+287,178.6,3,Quan_6,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",19.13
+288,268.0,1,Huyen_Binh_Chanh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",21.98
+289,138.8,5,Quan_4,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",32.05
+290,49.3,2,Quan_Thu_Duc,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, nội thất cao cấp.",7.27
+291,183.6,7,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",26.98
+292,293.7,7,Quan_8,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",25.88
+293,130.5,2,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",32.1
+294,245.3,5,Quan_5,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",77.52
+295,61.4,1,Quan_5,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",12.55
+296,79.3,5,Quan_6,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",9.8
+297,99.0,4,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",24.34
+298,229.6,3,Quan_11,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",38.11
+299,284.0,8,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",28.03
+300,239.6,1,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",60.55
+301,217.9,3,Quan_Binh_Tan,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",16.07
+302,275.2,3,Quan_8,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",29.76
+303,93.4,5,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",9.12
+304,232.6,5,Quan_4,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",36.47
+305,177.3,6,Quan_8,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ.",14.42
+306,71.4,2,Quan_6,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",6.83
+307,199.7,3,Huyen_Nha_Be,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ hồng chính chủ.",13.49
+308,304.4,4,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",37.01
+309,74.5,6,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",12.84
+310,77.3,1,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",11.3
+311,179.0,6,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",32.0
+312,64.5,8,Quan_Phu_Nhuan,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",12.48
+313,178.3,7,Quan_4,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",36.58
+314,247.7,7,Quan_Tan_Binh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",42.95
+315,245.6,8,Quan_4,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",47.17
+316,262.3,3,Quan_1,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",79.19
+317,42.0,3,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",2.05
+318,75.0,1,Huyen_Hoc_Mon,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ đỏ.",2.91
+319,296.2,5,Quan_3,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",68.17
+320,56.4,2,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",6.58
+321,167.7,4,Huyen_Nha_Be,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",8.33
+322,224.7,4,Quan_8,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",20.51
+323,188.6,3,Quan_3,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ.",56.7
+324,86.0,4,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",16.58
+325,275.2,6,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",55.55
+326,180.1,7,Quan_2,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",42.8
+327,54.7,6,Huyen_Nha_Be,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",4.39
+328,277.0,5,Quan_Binh_Thanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",34.3
+329,164.5,1,Quan_5,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",51.18
+330,39.1,2,Huyen_Nha_Be,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",2.35
+331,126.5,7,Quan_10,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, nội thất cao cấp.",36.33
+332,168.8,8,Quan_Thu_Duc,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu, sổ đỏ.",19.5
+333,72.8,4,Quan_3,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",18.18
+334,79.2,1,Quan_6,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",14.46
+335,40.9,7,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",3.04
+336,33.4,6,Quan_6,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",5.77
+337,201.3,7,Huyen_Nha_Be,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",10.77
+338,265.5,3,Quan_Thu_Duc,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",21.41
+339,186.7,4,Quan_1,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",61.18
+340,263.2,5,Huyen_Hoc_Mon,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7.",14.14
+341,231.6,8,Quan_10,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",55.05
+342,69.5,8,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",19.06
+343,103.6,7,Quan_2,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",45.44
+344,97.9,1,Quan_Go_Vap,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",9.12
+345,244.7,2,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",51.87
+346,197.5,7,Quan_10,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",53.67
+347,124.8,1,Huyen_Hoc_Mon,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",7.12
+348,262.6,8,Quan_Binh_Thanh,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",66.39
+349,192.2,6,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",30.64
+350,136.8,3,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",11.55
+351,250.9,3,Quan_Binh_Tan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ đỏ, nội thất cao cấp.",20.18
+352,193.4,7,Quan_2,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",43.41
+353,163.1,1,Quan_3,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nội thất cao cấp.",37.48
+354,308.4,2,Quan_7,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",89.56
+355,245.1,6,Quan_Phu_Nhuan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",40.38
+356,291.2,6,Quan_Binh_Thanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ.",48.06
+357,308.1,1,Quan_Go_Vap,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",24.85
+358,296.1,3,Quan_10,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",82.85
+359,241.6,6,Quan_7,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",66.36
+360,255.1,6,Quan_3,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",65.38
+361,37.1,3,Quan_Thu_Duc,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",3.34
+362,68.7,6,Quan_Tan_Binh,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",17.06
+363,168.9,4,Quan_7,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",30.31
+364,81.2,6,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",14.94
+365,71.0,2,Quan_Binh_Thanh,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",16.46
+366,164.0,6,Quan_Go_Vap,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",28.41
+367,197.0,1,Quan_Tan_Binh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",29.8
+368,280.0,1,Quan_Binh_Thanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",35.91
+369,83.7,8,Quan_6,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",9.03
+370,94.7,5,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nội thất cao cấp.",12.78
+371,50.9,7,Quan_5,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư.",10.79
+372,63.9,3,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",3.78
+373,295.5,6,Huyen_Nha_Be,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",23.68
+374,308.6,5,Quan_Phu_Nhuan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ, nội thất cao cấp.",53.02
+375,93.1,4,Huyen_Hoc_Mon,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",5.01
+376,82.0,1,Quan_6,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",9.29
+377,169.5,6,Huyen_Hoc_Mon,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư.",7.18
+378,214.2,1,Quan_Thu_Duc,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",16.89
+379,81.0,8,Quan_2,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",22.94
+380,51.7,2,Quan_Go_Vap,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",7.72
+381,285.4,2,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nội thất cao cấp.",53.47
+382,205.6,3,Quan_Thu_Duc,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",15.4
+383,148.8,5,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",32.66
+384,204.4,8,Quan_1,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",91.01
+385,266.9,4,Huyen_Binh_Chanh,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",16.89
+386,39.5,7,Quan_3,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",13.6
+387,52.5,5,Quan_2,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nội thất cao cấp.",12.04
+388,86.9,4,Quan_Thu_Duc,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",9.4
+389,204.6,6,Quan_Phu_Nhuan,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",58.7
+390,93.7,5,Huyen_Hoc_Mon,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",5.52
+391,28.3,4,Quan_7,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",6.38
+392,270.5,4,Quan_1,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",96.63
+393,161.4,7,Quan_12,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",23.43
+394,44.5,3,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",7.67
+395,233.1,6,Quan_11,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, sổ đỏ.",33.82
+396,294.4,8,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",45.83
+397,224.6,3,Quan_Thu_Duc,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nội thất cao cấp.",25.55
+398,55.4,5,Quan_2,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",19.2
+399,71.5,2,Quan_5,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",23.17
+400,46.0,6,Quan_6,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ, nội thất cao cấp.",7.2
+401,206.8,5,Quan_Go_Vap,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",18.68
+402,53.7,5,Quan_Go_Vap,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",6.05
+403,158.7,1,Quan_12,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",20.25
+404,121.1,2,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",15.1
+405,152.2,7,Huyen_Nha_Be,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",8.24
+406,53.8,8,Huyen_Binh_Chanh,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ đỏ, nội thất cao cấp.",5.22
+407,286.7,1,Quan_5,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",49.0
+408,296.0,7,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",40.68
+409,232.5,6,Quan_1,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nở hậu, nội thất cao cấp.",117.91
+410,165.1,4,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",14.81
+411,219.1,3,Quan_Binh_Tan,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ đỏ, nội thất cao cấp.",24.62
+412,266.9,7,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",10.86
+413,192.6,6,Quan_2,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",67.16
+414,48.1,2,Quan_Thu_Duc,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",3.58
+415,163.3,8,Quan_1,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, sổ đỏ.",60.5
+416,195.6,1,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ, nội thất cao cấp.",17.07
+417,29.2,2,Quan_10,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nội thất cao cấp.",4.49
+418,310.4,3,Quan_3,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",75.19
+419,247.9,2,Quan_10,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",71.25
+420,102.5,7,Quan_Binh_Tan,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ đỏ, nội thất cao cấp.",13.35
+421,205.1,5,Quan_Phu_Nhuan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ.",42.1
+422,117.4,1,Quan_6,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",12.29
+423,218.7,4,Huyen_Hoc_Mon,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ, nội thất cao cấp.",8.79
+424,230.2,5,Quan_4,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ đỏ, nội thất cao cấp.",52.42
+425,72.8,2,Quan_10,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",13.37
+426,77.6,8,Quan_Tan_Binh,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",17.32
+427,239.6,8,Huyen_Nha_Be,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ hồng chính chủ.",20.58
+428,26.1,8,Huyen_Nha_Be,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu.",2.89
+429,123.4,5,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",17.52
+430,77.1,1,Quan_7,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",12.88
+431,32.5,4,Quan_7,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",7.29
+432,144.6,4,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",33.52
+433,217.9,8,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",18.82
+434,58.7,4,Quan_4,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",13.98
+435,250.4,3,Quan_7,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",47.24
+436,136.0,3,Huyen_Hoc_Mon,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",10.18
+437,229.2,4,Quan_Binh_Tan,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",27.91
+438,210.0,5,Quan_3,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",105.08
+439,106.5,4,Quan_7,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",29.56
+440,153.2,6,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",31.04
+441,196.0,7,Huyen_Nha_Be,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ đỏ, nội thất cao cấp.",12.85
+442,46.7,8,Quan_8,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",9.84
+443,124.1,1,Quan_7,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",24.56
+444,292.1,4,Huyen_Hoc_Mon,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",16.16
+445,98.1,7,Quan_8,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",10.9
+446,181.7,8,Quan_Phu_Nhuan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",44.24
+447,29.7,5,Quan_3,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",12.95
+448,209.9,1,Quan_Binh_Thanh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu, sổ đỏ.",36.01
+449,208.0,6,Quan_3,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",79.22
+450,232.9,4,Huyen_Binh_Chanh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",16.3
+451,119.5,5,Quan_8,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",11.89
+452,290.3,8,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu.",12.75
+453,57.3,5,Quan_3,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",25.59
+454,148.9,1,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",25.49
+455,200.0,8,Quan_Binh_Tan,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",15.4
+456,307.1,3,Quan_Go_Vap,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh.",33.69
+457,62.3,5,Huyen_Nha_Be,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nội thất cao cấp.",4.56
+458,299.7,3,Quan_Tan_Binh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",36.65
+459,221.7,8,Huyen_Nha_Be,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",18.18
+460,204.4,4,Quan_2,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ đỏ.",58.82
+461,118.7,1,Quan_Binh_Tan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",9.66
+462,50.8,8,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",3.78
+463,165.0,6,Quan_11,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nở hậu, nội thất cao cấp.",32.1
+464,83.8,7,Quan_5,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",13.44
+465,113.5,8,Quan_10,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ đỏ, nội thất cao cấp.",35.03
+466,244.9,8,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",10.23
+467,284.1,3,Quan_Go_Vap,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",31.43
+468,250.6,3,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",22.73
+469,28.8,5,Quan_5,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",7.05
+470,274.6,2,Quan_Thu_Duc,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, nội thất cao cấp.",27.15
+471,75.8,5,Quan_12,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, sổ đỏ.",11.06
+472,228.8,2,Quan_Phu_Nhuan,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, nội thất cao cấp.",68.57
+473,44.5,1,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",8.83
+474,304.9,6,Quan_10,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",54.04
+475,26.3,2,Huyen_Binh_Chanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",1.29
+476,150.1,4,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",19.35
+477,170.6,7,Quan_12,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",23.21
+478,302.0,6,Quan_Binh_Tan,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nở hậu, nội thất cao cấp.",35.1
+479,243.7,3,Quan_4,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",51.46
+480,200.1,7,Huyen_Nha_Be,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",9.65
+481,242.7,2,Quan_4,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",42.75
+482,258.9,4,Quan_Binh_Tan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",18.42
+483,138.2,6,Quan_4,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",21.8
+484,192.8,8,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",27.6
+485,119.5,1,Quan_11,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",16.61
+486,41.7,4,Quan_Binh_Thanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",6.33
+487,192.6,7,Quan_Phu_Nhuan,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",48.23
+488,124.1,6,Quan_7,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",38.07
+489,103.2,5,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",13.27
+490,127.5,2,Quan_7,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",25.47
+491,78.3,1,Huyen_Binh_Chanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",3.64
+492,300.7,1,Quan_Phu_Nhuan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",71.87
+493,103.7,5,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",25.7
+494,215.8,1,Quan_Phu_Nhuan,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",44.17
+495,41.3,2,Quan_1,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",16.08
+496,94.6,2,Quan_5,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",18.95
+497,262.7,4,Quan_Tan_Binh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",48.15
+498,186.0,8,Quan_12,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",15.12
+499,228.8,4,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",49.52
+500,298.6,5,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",41.82
+501,267.8,8,Quan_3,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",59.67
+502,242.6,8,Huyen_Binh_Chanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",9.96
+503,98.6,3,Quan_6,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",9.04
+504,83.6,7,Quan_11,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",12.57
+505,312.4,4,Quan_3,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",67.45
+506,153.4,8,Quan_Thu_Duc,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",16.51
+507,88.6,5,Huyen_Hoc_Mon,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nội thất cao cấp.",5.18
+508,28.0,3,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",7.56
+509,163.9,6,Quan_8,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",16.44
+510,37.1,3,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",2.09
+511,282.1,5,Quan_Binh_Tan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",24.13
+512,250.3,3,Quan_Binh_Tan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu, sổ đỏ, nội thất cao cấp.",19.9
+513,37.0,6,Quan_Binh_Tan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",3.19
+514,267.7,4,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",19.95
+515,226.0,2,Quan_11,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, nội thất cao cấp.",29.54
+516,218.6,8,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, nội thất cao cấp.",55.71
+517,142.7,3,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",37.66
+518,261.3,5,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",23.68
+519,264.2,3,Quan_Phu_Nhuan,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",46.39
+520,49.8,8,Quan_Thu_Duc,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, nội thất cao cấp.",5.24
+521,175.6,7,Quan_4,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, nở hậu, nội thất cao cấp.",40.03
+522,273.7,1,Quan_6,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",43.04
+523,87.3,2,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nội thất cao cấp.",8.53
+524,239.1,5,Huyen_Hoc_Mon,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh.",10.52
+525,278.4,4,Quan_7,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",55.89
+526,59.4,3,Quan_1,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",17.18
+527,313.9,8,Quan_Phu_Nhuan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",60.71
+528,235.7,1,Quan_8,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",25.04
+529,31.1,5,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",6.55
+530,285.5,7,Quan_5,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",43.84
+531,63.1,4,Quan_Binh_Tan,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",7.71
+532,224.7,3,Quan_Binh_Thanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",34.33
+533,252.2,5,Quan_2,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",75.25
+534,268.0,1,Quan_4,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",45.46
+535,123.7,3,Quan_Binh_Thanh,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",26.97
+536,236.0,7,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ đỏ.",45.97
+537,303.4,8,Quan_Binh_Thanh,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ hồng chính chủ.",59.39
+538,219.8,3,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",57.85
+539,237.9,6,Quan_11,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",50.84
+540,230.8,7,Quan_Go_Vap,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",26.34
+541,178.8,3,Quan_11,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",37.01
+542,129.6,1,Quan_Thu_Duc,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",13.57
+543,274.1,4,Huyen_Binh_Chanh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",13.39
+544,267.7,6,Quan_7,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",73.31
+545,143.8,7,Quan_Thu_Duc,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",12.55
+546,168.0,8,Quan_5,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, nội thất cao cấp.",49.84
+547,202.5,7,Quan_4,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",43.48
+548,66.9,7,Quan_5,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, nội thất cao cấp.",21.37
+549,116.4,8,Huyen_Nha_Be,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",6.57
+550,51.3,7,Quan_12,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",6.4
+551,190.5,2,Quan_11,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",27.62
+552,219.2,3,Quan_4,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",37.65
+553,170.0,1,Quan_2,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",40.7
+554,251.6,3,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",38.29
+555,101.1,2,Quan_12,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",12.81
+556,188.2,2,Quan_Go_Vap,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",18.0
+557,192.6,8,Quan_11,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ đỏ, nội thất cao cấp.",36.69
+558,158.3,1,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, nội thất cao cấp.",7.4
+559,197.6,5,Quan_7,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",56.68
+560,87.2,6,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",15.69
+561,121.9,3,Huyen_Hoc_Mon,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",5.74
+562,257.3,2,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ.",70.53
+563,61.8,6,Quan_1,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",20.42
+564,314.1,6,Quan_8,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",45.34
+565,172.6,3,Huyen_Nha_Be,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",8.72
+566,284.9,5,Quan_8,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp.",36.57
+567,214.1,1,Quan_Phu_Nhuan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ đỏ.",43.87
+568,295.9,8,Quan_10,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",52.8
+569,122.1,2,Quan_6,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",15.85
+570,270.6,6,Quan_12,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ, nội thất cao cấp.",27.42
+571,255.9,1,Quan_3,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",64.03
+572,93.8,1,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",17.91
+573,28.6,2,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",4.04
+574,42.8,5,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ.",8.79
+575,311.2,3,Quan_Binh_Thanh,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",72.91
+576,80.9,8,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",7.42
+577,171.3,1,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",38.34
+578,46.8,1,Quan_1,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",15.29
+579,237.1,6,Quan_10,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ, nội thất cao cấp.",55.27
+580,263.8,3,Quan_Binh_Thanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",39.46
+581,118.8,7,Quan_Binh_Thanh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",20.96
+582,282.5,8,Quan_10,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",73.39
+583,172.1,8,Quan_Binh_Thanh,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",38.76
+584,86.1,4,Quan_2,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",23.11
+585,112.0,6,Quan_3,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",34.51
+586,155.3,5,Quan_6,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh.",16.49
+587,123.5,6,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",26.26
+588,252.2,5,Quan_1,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",83.5
+589,91.9,4,Quan_8,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",8.31
+590,86.8,8,Quan_Phu_Nhuan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",19.03
+591,150.6,7,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",36.12
+592,194.3,7,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",9.47
+593,169.1,3,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",6.42
+594,140.4,2,Quan_Phu_Nhuan,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",41.54
+595,71.8,5,Quan_Binh_Tan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, nội thất cao cấp.",6.67
+596,160.8,1,Quan_Binh_Tan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",13.82
+597,98.5,7,Quan_Phu_Nhuan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",17.36
+598,221.7,2,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",24.74
+599,146.0,3,Quan_12,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",11.6
+600,58.8,3,Quan_10,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",10.14
+601,204.1,3,Quan_1,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",65.88
+602,88.8,1,Huyen_Binh_Chanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",3.22
+603,251.3,4,Quan_Tan_Binh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",44.59
+604,260.1,3,Quan_4,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",46.04
+605,93.6,2,Quan_4,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",16.25
+606,44.9,4,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",10.99
+607,225.0,3,Quan_Tan_Binh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",25.58
+608,214.0,4,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",17.61
+609,172.1,4,Quan_Binh_Thanh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",47.02
+610,178.7,7,Quan_2,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ.",51.42
+611,178.8,3,Quan_Tan_Binh,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ đỏ.",30.02
+612,94.7,2,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",15.94
+613,48.6,6,Quan_Binh_Tan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",4.83
+614,248.9,5,Quan_3,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",94.14
+615,82.7,4,Quan_Binh_Tan,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nội thất cao cấp.",10.74
+616,115.8,2,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",10.61
+617,175.3,8,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",31.67
+618,102.1,8,Quan_5,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",25.02
+619,233.3,2,Quan_Tan_Binh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",37.93
+620,247.0,2,Quan_Phu_Nhuan,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",62.24
+621,265.8,1,Quan_6,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, sổ đỏ, nội thất cao cấp.",43.2
+622,168.5,2,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",30.83
+623,48.5,2,Quan_6,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",6.63
+624,257.8,1,Huyen_Nha_Be,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",21.71
+625,134.4,6,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",13.2
+626,238.9,3,Quan_Tan_Binh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",55.45
+627,146.9,4,Quan_Thu_Duc,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",18.08
+628,93.9,8,Quan_Go_Vap,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",11.72
+629,204.1,3,Quan_11,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",26.16
+630,289.4,2,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",31.03
+631,251.1,4,Quan_Tan_Binh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",32.75
+632,299.9,2,Quan_8,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",31.28
+633,59.1,2,Quan_10,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",17.2
+634,242.4,5,Huyen_Nha_Be,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",17.76
+635,199.3,2,Huyen_Hoc_Mon,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",7.86
+636,201.7,5,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",56.88
+637,70.0,4,Quan_12,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",6.81
+638,317.4,7,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",33.31
+639,63.6,1,Quan_4,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",10.93
+640,239.2,2,Quan_Binh_Thanh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",33.07
+641,59.6,6,Quan_2,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ đỏ.",14.16
+642,254.4,7,Quan_3,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, nở hậu, sổ đỏ.",102.46
+643,166.5,2,Huyen_Nha_Be,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",9.74
+644,79.5,1,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",3.63
+645,78.3,3,Quan_4,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",18.39
+646,50.0,2,Quan_2,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",14.22
+647,219.5,8,Quan_11,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",40.1
+648,80.5,5,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",20.65
+649,216.7,3,Quan_Tan_Binh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",34.69
+650,235.8,3,Quan_7,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",49.08
+651,213.9,6,Quan_12,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ đỏ.",21.14
+652,198.7,8,Quan_11,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",41.72
+653,78.3,7,Quan_Tan_Binh,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ, nội thất cao cấp.",15.4
+654,233.7,4,Quan_Binh_Thanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",34.63
+655,115.0,2,Quan_8,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",12.18
+656,308.8,7,Quan_1,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",122.97
+657,235.7,6,Quan_1,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp.",97.39
+658,291.6,3,Quan_Thu_Duc,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nội thất cao cấp.",35.61
+659,270.4,2,Quan_8,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",26.55
+660,300.9,8,Quan_2,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",97.07
+661,152.1,4,Quan_4,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",38.87
+662,151.4,3,Quan_Binh_Thanh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, nội thất cao cấp.",25.9
+663,109.0,3,Quan_7,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ đỏ.",20.14
+664,120.8,7,Quan_5,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, nội thất cao cấp.",21.53
+665,151.8,1,Quan_12,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",14.04
+666,318.3,4,Quan_10,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",56.74
+667,60.5,7,Quan_8,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",9.76
+668,90.4,7,Quan_8,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, sổ đỏ.",9.74
+669,40.4,6,Quan_1,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, sổ đỏ.",13.32
+670,122.7,6,Quan_5,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",23.1
+671,310.7,4,Huyen_Nha_Be,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",15.56
+672,62.7,7,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",18.65
+673,167.4,1,Quan_3,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",69.97
+674,171.0,2,Quan_Tan_Binh,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",35.09
+675,230.5,8,Huyen_Nha_Be,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ đỏ, nội thất cao cấp.",14.89
+676,104.8,1,Quan_5,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",26.02
+677,238.0,7,Quan_10,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",35.65
+678,56.4,7,Huyen_Nha_Be,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",5.15
+679,156.6,7,Quan_5,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nở hậu, sổ hồng chính chủ.",37.73
+680,266.2,4,Quan_6,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",51.34
+681,138.3,2,Quan_Tan_Binh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu, sổ đỏ, nội thất cao cấp.",23.08
+682,242.2,6,Huyen_Binh_Chanh,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",17.32
+683,210.1,2,Quan_10,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",52.31
+684,138.7,6,Quan_Phu_Nhuan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",27.61
+685,130.4,6,Quan_11,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",23.26
+686,69.3,5,Quan_Phu_Nhuan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, sổ đỏ.",14.1
+687,279.2,3,Quan_1,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",106.78
+688,51.7,3,Quan_5,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",10.36
+689,138.0,8,Quan_8,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",15.95
+690,85.0,1,Quan_1,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",28.11
+691,311.7,7,Huyen_Binh_Chanh,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, sổ đỏ, nội thất cao cấp.",20.94
+692,220.5,2,Quan_4,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu, nội thất cao cấp.",35.44
+693,231.1,5,Quan_Thu_Duc,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ đỏ, nội thất cao cấp.",20.73
+694,188.5,5,Quan_Go_Vap,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ.",17.86
+695,79.2,2,Quan_Tan_Binh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",9.28
+696,48.0,6,Quan_4,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",10.87
+697,95.9,2,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",23.44
+698,82.5,7,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",7.29
+699,165.7,1,Quan_Tan_Binh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ, nội thất cao cấp.",28.84
+700,177.3,6,Quan_Thu_Duc,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",25.64
+701,47.1,3,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",2.05
+702,75.1,5,Quan_12,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",11.95
+703,216.8,3,Quan_Go_Vap,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",20.47
+704,305.9,6,Huyen_Hoc_Mon,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",17.92
+705,27.3,2,Huyen_Binh_Chanh,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",1.95
+706,50.3,2,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",6.95
+707,159.1,3,Quan_10,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",33.28
+708,41.0,1,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",7.21
+709,222.5,5,Quan_7,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",57.35
+710,183.0,3,Quan_Binh_Tan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",12.15
+711,120.5,6,Quan_5,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",34.93
+712,316.5,3,Quan_1,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",96.09
+713,311.7,1,Quan_7,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",65.11
+714,269.3,7,Quan_Binh_Thanh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",51.18
+715,232.1,2,Quan_11,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",26.37
+716,173.5,1,Quan_Go_Vap,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",15.68
+717,146.8,7,Quan_Go_Vap,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",26.15
+718,290.6,7,Quan_1,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",151.98
+719,188.9,7,Quan_8,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp.",27.58
+720,291.7,3,Quan_Tan_Binh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",43.48
+721,85.1,2,Quan_12,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng.",11.1
+722,315.1,6,Quan_5,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, sổ đỏ, nội thất cao cấp.",87.16
+723,300.8,1,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",63.85
+724,294.3,4,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",42.69
+725,78.0,1,Quan_6,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",7.63
+726,298.3,4,Quan_10,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",41.78
+727,103.9,8,Quan_5,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",21.84
+728,83.4,5,Quan_6,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",12.03
+729,208.8,7,Quan_12,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, sổ đỏ, nội thất cao cấp.",26.16
+730,128.9,1,Quan_Thu_Duc,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu, sổ đỏ.",15.99
+731,228.0,6,Quan_12,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nội thất cao cấp.",27.51
+732,236.3,2,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",40.0
+733,60.2,8,Quan_Phu_Nhuan,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",16.06
+734,108.9,7,Quan_Go_Vap,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",18.08
+735,118.6,6,Quan_10,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",22.74
+736,301.6,2,Quan_Binh_Thanh,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",84.99
+737,265.8,1,Quan_Binh_Thanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",35.82
+738,297.8,8,Quan_6,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",54.19
+739,166.0,8,Huyen_Nha_Be,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",10.18
+740,47.2,8,Quan_3,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",22.48
+741,234.0,3,Quan_11,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",34.15
+742,149.8,5,Quan_10,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",26.17
+743,128.8,2,Quan_Go_Vap,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",14.83
+744,82.2,4,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",12.18
+745,194.7,4,Quan_2,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",79.79
+746,85.7,4,Quan_Binh_Tan,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nội thất cao cấp.",9.83
+747,118.0,2,Quan_6,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",21.11
+748,225.4,1,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",19.47
+749,180.0,3,Quan_8,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",17.21
+750,160.3,6,Quan_Binh_Thanh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",21.11
+751,277.6,3,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",59.8
+752,283.8,8,Quan_10,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, sổ đỏ.",52.39
+753,271.1,2,Quan_12,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư.",22.34
+754,310.2,3,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, sổ đỏ.",29.52
+755,39.7,3,Quan_1,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",15.52
+756,110.8,1,Quan_3,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",33.74
+757,191.4,6,Quan_6,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, sổ đỏ.",30.38
+758,79.1,7,Huyen_Binh_Chanh,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",6.76
+759,161.1,1,Quan_Phu_Nhuan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",26.64
+760,40.8,7,Quan_11,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",8.6
+761,123.4,2,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",16.76
+762,65.2,3,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",5.77
+763,53.6,4,Quan_Thu_Duc,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",8.13
+764,101.8,8,Huyen_Binh_Chanh,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",6.04
+765,166.7,5,Quan_Binh_Tan,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ, nội thất cao cấp.",12.15
+766,28.3,5,Quan_Tan_Binh,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",7.0
+767,130.5,4,Quan_6,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",14.4
+768,297.4,2,Quan_11,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",35.07
+769,198.7,6,Quan_12,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",21.02
+770,56.1,3,Quan_8,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",6.06
+771,297.4,6,Quan_1,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, nội thất cao cấp.",138.12
+772,153.0,4,Quan_6,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",25.83
+773,280.0,6,Huyen_Binh_Chanh,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",17.01
+774,207.5,3,Quan_Binh_Thanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nội thất cao cấp.",28.69
+775,31.7,5,Quan_12,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",3.68
+776,172.5,7,Huyen_Hoc_Mon,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",6.3
+777,66.1,6,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",17.21
+778,201.5,2,Quan_Phu_Nhuan,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ, nội thất cao cấp.",39.51
+779,31.3,1,Quan_8,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",4.45
+780,230.2,7,Quan_Tan_Binh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",34.47
+781,28.0,7,Huyen_Nha_Be,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nội thất cao cấp.",1.95
+782,37.9,6,Quan_11,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",4.85
+783,233.1,6,Quan_Binh_Tan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",16.64
+784,40.9,7,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",7.68
+785,231.0,8,Quan_8,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, sổ đỏ, nội thất cao cấp.",34.53
+786,30.6,7,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",5.14
+787,297.2,5,Quan_12,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",27.29
+788,139.5,5,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",6.81
+789,63.9,1,Quan_8,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",5.53
+790,255.8,1,Quan_10,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",63.31
+791,166.7,4,Quan_Binh_Thanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",22.43
+792,62.5,3,Quan_Binh_Tan,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",8.36
+793,42.9,5,Quan_8,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nội thất cao cấp.",5.63
+794,85.2,6,Quan_8,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",8.25
+795,163.9,5,Quan_Binh_Thanh,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",39.58
+796,256.1,6,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",22.38
+797,210.9,7,Huyen_Nha_Be,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",16.78
+798,293.8,6,Quan_11,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, sổ đỏ, nội thất cao cấp.",60.13
+799,131.8,6,Quan_Phu_Nhuan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",30.7
+800,254.1,7,Quan_8,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",27.61
+801,283.5,1,Quan_6,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",48.56
+802,317.0,3,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",37.32
+803,204.6,2,Huyen_Nha_Be,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",11.65
+804,241.4,2,Quan_5,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",73.56
+805,93.5,8,Quan_4,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",14.9
+806,265.1,4,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, sổ đỏ, nội thất cao cấp.",70.64
+807,316.7,2,Quan_10,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",54.86
+808,169.1,1,Quan_1,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ, nội thất cao cấp.",64.87
+809,287.2,8,Quan_Go_Vap,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7.",40.65
+810,121.5,6,Quan_3,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",32.59
+811,118.7,1,Quan_Thu_Duc,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",10.03
+812,108.4,4,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",8.96
+813,228.0,7,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",51.38
+814,130.4,8,Huyen_Hoc_Mon,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",6.6
+815,307.1,2,Quan_Go_Vap,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",26.83
+816,287.5,7,Quan_7,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, sổ đỏ, nội thất cao cấp.",69.09
+817,239.8,6,Quan_Binh_Tan,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",30.01
+818,30.9,1,Huyen_Binh_Chanh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",1.52
+819,272.3,7,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",24.82
+820,258.4,1,Quan_Tan_Binh,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",53.84
+821,279.3,2,Quan_10,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",67.92
+822,258.8,4,Huyen_Nha_Be,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",11.14
+823,136.1,7,Quan_Binh_Tan,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nội thất cao cấp.",15.42
+824,305.7,2,Quan_Tan_Binh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",41.75
+825,53.1,3,Quan_3,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, sổ hồng chính chủ.",14.92
+826,116.9,6,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh.",25.1
+827,308.0,4,Quan_12,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",24.51
+828,72.8,2,Quan_1,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",36.0
+829,148.4,1,Huyen_Binh_Chanh,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",5.62
+830,179.4,4,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",25.28
+831,73.5,8,Quan_5,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",24.96
+832,43.0,8,Quan_4,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, nội thất cao cấp.",9.96
+833,133.3,7,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ, nội thất cao cấp.",17.04
+834,215.2,7,Huyen_Nha_Be,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",10.19
+835,51.9,3,Quan_7,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",16.22
+836,249.2,4,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",23.1
+837,303.9,5,Quan_6,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",34.39
+838,252.4,6,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nội thất cao cấp.",24.21
+839,116.6,2,Huyen_Nha_Be,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ hồng chính chủ.",5.48
+840,311.5,1,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",61.33
+841,205.8,3,Quan_1,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ, nội thất cao cấp.",77.42
+842,218.3,1,Quan_7,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu.",39.64
+843,44.2,3,Quan_2,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",13.46
+844,128.5,6,Huyen_Binh_Chanh,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ, nội thất cao cấp.",5.89
+845,257.7,4,Quan_6,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",25.0
+846,233.2,3,Quan_Tan_Binh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",27.41
+847,129.8,6,Quan_Binh_Tan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",10.45
+848,127.3,5,Quan_Phu_Nhuan,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",20.77
+849,177.5,3,Quan_4,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",25.14
+850,149.3,6,Quan_6,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",16.24
+851,240.6,8,Quan_Phu_Nhuan,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",52.66
+852,306.4,7,Quan_10,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",92.16
+853,220.7,1,Quan_5,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",48.43
+854,94.7,4,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",10.21
+855,294.3,7,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",55.79
+856,141.2,2,Huyen_Hoc_Mon,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, sổ đỏ, nội thất cao cấp.",5.49
+857,294.8,4,Quan_Tan_Binh,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",65.17
+858,35.3,7,Quan_Binh_Tan,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, sổ hồng chính chủ, nội thất cao cấp.",5.1
+859,72.5,3,Quan_1,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",21.89
+860,203.1,8,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu, nội thất cao cấp.",31.9
+861,101.1,8,Huyen_Nha_Be,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",5.81
+862,251.2,1,Quan_11,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",37.11
+863,49.8,2,Quan_6,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",9.25
+864,192.9,1,Quan_Thu_Duc,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",31.31
+865,149.6,1,Quan_11,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",19.62
+866,277.0,4,Huyen_Binh_Chanh,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nở hậu.",16.21
+867,225.1,5,Quan_6,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nội thất cao cấp.",33.23
+868,91.3,6,Quan_8,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",9.04
+869,126.2,6,Quan_1,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",36.79
+870,310.5,8,Huyen_Nha_Be,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ.",17.3
+871,128.7,7,Huyen_Hoc_Mon,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ đỏ.",5.43
+872,53.6,4,Quan_4,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",9.73
+873,107.3,6,Huyen_Hoc_Mon,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",5.04
+874,109.5,8,Quan_Go_Vap,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, sổ đỏ, nội thất cao cấp.",18.83
+875,312.4,7,Quan_Phu_Nhuan,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",93.72
+876,74.1,8,Quan_8,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",8.36
+877,238.3,4,Quan_Binh_Thanh,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",48.74
+878,155.9,4,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",6.69
+879,226.2,7,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",54.89
+880,154.4,1,Quan_1,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",45.95
+881,68.1,5,Quan_4,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",10.21
+882,122.4,2,Quan_4,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",17.26
+883,35.5,3,Huyen_Hoc_Mon,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nở hậu, nội thất cao cấp.",2.82
+884,223.6,3,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",18.62
+885,101.5,7,Quan_1,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",29.43
+886,281.9,8,Quan_6,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ đỏ, nội thất cao cấp.",40.69
+887,216.7,6,Quan_4,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",30.45
+888,305.8,2,Quan_4,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, nở hậu.",44.68
+889,92.4,8,Quan_8,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, nở hậu, sổ đỏ, nội thất cao cấp.",15.83
+890,86.3,4,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",19.61
+891,83.2,4,Quan_Binh_Tan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",8.34
+892,247.9,1,Huyen_Hoc_Mon,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",9.35
+893,125.6,5,Quan_8,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, sổ đỏ.",14.17
+894,52.9,8,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, sổ đỏ.",7.44
+895,298.6,4,Quan_11,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",47.76
+896,257.7,5,Huyen_Hoc_Mon,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",14.51
+897,150.5,7,Quan_11,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ đỏ, nội thất cao cấp.",29.54
+898,86.5,5,Quan_7,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",19.4
+899,56.5,4,Quan_10,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",16.16
+900,107.6,7,Quan_8,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ hồng chính chủ, nội thất cao cấp.",17.54
+901,313.3,7,Quan_12,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",26.25
+902,228.4,3,Quan_11,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh.",31.69
+903,160.9,6,Quan_8,"Biệt thự mini, nội thất cao cấp, hồ bơi riêng, an ninh 24/7, sổ đỏ.",22.63
+904,270.3,1,Quan_2,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ, nội thất cao cấp.",65.34
+905,241.7,2,Quan_3,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",57.08
+906,251.3,7,Quan_3,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay.",59.83
+907,287.4,7,Quan_Phu_Nhuan,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nở hậu, sổ đỏ, nội thất cao cấp.",84.59
+908,252.1,6,Quan_7,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",44.68
+909,121.6,6,Quan_3,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",36.56
+910,61.3,7,Quan_Go_Vap,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nở hậu, nội thất cao cấp.",10.82
+911,310.9,2,Quan_3,"Mặt tiền kinh doanh, kết hợp ở trên cho thuê dưới, thu nhập ổn định, sổ hồng chính chủ, nội thất cao cấp.",141.64
+912,131.2,5,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",11.43
+913,92.7,2,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",9.55
+914,62.7,3,Quan_1,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",34.4
+915,76.5,3,Quan_6,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",8.35
+916,119.7,1,Huyen_Hoc_Mon,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, sổ hồng chính chủ.",4.18
+917,29.4,4,Quan_4,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ đỏ, nội thất cao cấp.",7.34
+918,116.9,8,Quan_1,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",47.85
+919,62.1,3,Quan_7,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",11.55
+920,121.9,8,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",15.39
+921,245.6,7,Quan_2,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",50.79
+922,80.4,7,Quan_Binh_Thanh,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu.",15.72
+923,252.7,8,Quan_Binh_Tan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",25.6
+924,187.4,5,Quan_4,"Biệt thự phong cách Địa Trung Hải, nở hậu sinh tài lộc, nội thất cao cấp, sổ hồng chính chủ.",42.28
+925,82.5,4,Quan_Thu_Duc,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay.",8.46
+926,229.6,3,Quan_8,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ hồng chính chủ.",26.95
+927,39.4,7,Quan_10,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",7.05
+928,200.2,2,Huyen_Hoc_Mon,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",14.29
+929,199.5,4,Quan_Tan_Binh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích, sổ đỏ, nội thất cao cấp.",32.08
+930,249.4,1,Quan_10,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",41.24
+931,70.3,6,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",8.06
+932,248.7,4,Quan_Binh_Tan,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",20.75
+933,213.2,5,Quan_2,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, sổ đỏ.",43.06
+934,197.8,4,Quan_8,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",19.72
+935,37.4,2,Quan_Tan_Binh,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",5.73
+936,127.5,8,Quan_2,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",29.23
+937,32.1,6,Quan_6,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",6.5
+938,156.6,1,Quan_10,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, nở hậu.",27.59
+939,274.2,2,Quan_6,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu.",29.52
+940,248.2,4,Quan_6,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",26.64
+941,231.6,5,Quan_Thu_Duc,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, nở hậu, sổ đỏ.",19.35
+942,64.2,7,Quan_Tan_Binh,"Mặt tiền đường rộng, ô tô vào tận nhà, sổ hồng chính chủ, nội thất cao cấp.",14.19
+943,97.5,3,Quan_2,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",26.02
+944,96.9,1,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",11.82
+945,245.3,6,Quan_Tan_Binh,"Hẻm xe hơi rộng rãi, nở hậu, phong thủy tốt, gần tiện ích.",40.03
+946,259.7,3,Quan_8,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, nội thất cao cấp.",38.7
+947,267.2,4,Huyen_Binh_Chanh,"Hẻm xe máy thông, gần chợ, trường học, giá tốt đầu tư, sổ hồng chính chủ.",10.25
+948,289.3,8,Quan_2,"Bán gấp nhà mặt tiền, hướng Đông Nam đón gió, nội thất hoàn thiện, sổ đỏ, nội thất cao cấp.",102.38
+949,232.7,3,Quan_Phu_Nhuan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ.",47.43
+950,314.2,6,Huyen_Binh_Chanh,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",16.97
+951,253.3,3,Huyen_Hoc_Mon,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nội thất cao cấp.",12.01
+952,65.9,6,Quan_Binh_Tan,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ.",6.78
+953,125.2,2,Quan_3,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nội thất cao cấp.",38.83
+954,33.2,6,Quan_11,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",5.22
+955,194.3,8,Quan_Binh_Thanh,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",43.07
+956,56.8,3,Quan_11,"Hẻm ô tô, sổ hồng chính chủ, nội thất đầy đủ, ở ngay, nở hậu, nội thất cao cấp.",11.31
+957,222.3,2,Quan_4,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",35.98
+958,54.1,2,Huyen_Nha_Be,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",3.16
+959,111.4,7,Quan_7,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ hồng chính chủ.",26.16
+960,180.6,1,Quan_2,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, nội thất cao cấp.",49.92
+961,128.8,1,Quan_7,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",20.03
+962,288.2,6,Quan_6,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, nội thất cao cấp.",46.86
+963,219.6,6,Quan_8,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nội thất cao cấp.",23.87
+964,85.4,5,Quan_11,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",12.41
+965,230.3,8,Quan_2,"Biệt thự sân vườn rộng, thiết kế châu Âu sang trọng, sổ hồng lâu dài, nở hậu, sổ đỏ, nội thất cao cấp.",89.0
+966,306.8,7,Quan_10,"Nhà phố biệt lập, nội thất nhập khẩu, hầm xe 2 ô tô, sổ hồng chính chủ, nội thất cao cấp.",78.42
+967,274.7,4,Huyen_Binh_Chanh,"Nhà mặt tiền, thuận tiện buôn bán, nội thất cao cấp, sổ hồng, nở hậu.",16.82
+968,206.5,8,Quan_Phu_Nhuan,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",35.61
+969,278.5,5,Quan_12,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, sổ đỏ.",29.19
+970,282.0,2,Quan_1,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu.",85.78
+971,238.6,6,Quan_6,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",42.56
+972,191.3,2,Quan_2,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, nội thất cao cấp.",67.98
+973,205.7,6,Quan_Binh_Tan,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",15.5
+974,285.2,6,Quan_10,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",55.33
+975,149.2,7,Quan_Tan_Binh,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",18.69
+976,192.7,6,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",35.16
+977,146.6,4,Huyen_Hoc_Mon,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát.",5.87
+978,105.6,3,Quan_6,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ đỏ.",9.75
+979,181.5,1,Huyen_Hoc_Mon,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",6.93
+980,115.7,2,Quan_7,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ.",17.53
+981,73.2,2,Quan_5,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",14.47
+982,293.2,2,Quan_5,"Bán nhà hẻm xe hơi 5m, nở hậu, sổ hồng chính chủ, nội thất cao cấp.",74.22
+983,288.7,8,Quan_Go_Vap,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nở hậu, nội thất cao cấp.",34.08
+984,308.7,6,Quan_7,"Villa cao cấp, sổ hồng lâu dài, vị trí trung tâm, đẳng cấp, nội thất cao cấp.",71.46
+985,81.6,5,Quan_10,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện, sổ hồng chính chủ, nội thất cao cấp.",13.09
+986,219.5,6,Quan_Go_Vap,"Bán nhà mặt tiền đường lớn, vị trí đắc địa kinh doanh sầm uất, nội thất cao cấp.",30.27
+987,230.6,6,Quan_10,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng, nội thất cao cấp.",44.85
+988,262.6,6,Quan_3,"Nhà hẻm xe hơi thông thoáng, ô tô vào tận nhà, khu an ninh, sổ hồng chính chủ.",82.57
+989,27.8,1,Quan_3,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, sổ đỏ.",8.47
+990,61.0,3,Huyen_Hoc_Mon,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý, nở hậu, sổ hồng chính chủ.",2.91
+991,81.8,4,Quan_Thu_Duc,"Nhà hẻm nhỏ, tiện đi lại, sổ đỏ chính chủ, giá hợp lý.",6.35
+992,102.7,4,Quan_7,"Hẻm ba gác, gần trục đường lớn, sổ hồng, thiết kế thoáng mát, nở hậu.",18.6
+993,89.4,5,Quan_11,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",10.49
+994,207.9,7,Quan_2,"Biệt thự nghỉ dưỡng, hồ bơi riêng, sân thượng view thoáng, sổ hồng, nở hậu, nội thất cao cấp.",78.73
+995,225.1,2,Huyen_Hoc_Mon,"Nhà trong hẻm, yên tĩnh, phù hợp ở gia đình, sổ hồng.",8.76
+996,92.3,3,Quan_7,"Nhà mặt phố kinh doanh, vỉa hè rộng 3m, tiện kinh doanh và ở, sổ hồng chính chủ, nội thất cao cấp.",28.71
+997,158.4,3,Quan_Go_Vap,"Nhà hẻm thông thoáng, an ninh tốt, gần chợ và bệnh viện.",12.82
+998,69.6,3,Quan_6,"Bán nhà hẻm xe hơi 4m, ô tô vào nhà, khu yên tĩnh, nở hậu, sổ hồng chính chủ.",9.36
+999,204.0,8,Quan_Binh_Tan,"Hẻm xe hơi đẹp, sổ hồng riêng, gần trường học và chợ, sổ đỏ, nội thất cao cấp.",19.62
+1000,262.1,7,Quan_Binh_Tan,"Bán nhà hẻm, sổ đỏ chính chủ, nhà mới sơn, ở ngay, sổ hồng chính chủ.",18.24
